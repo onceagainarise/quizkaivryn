@@ -75,8 +75,8 @@ export default function Home() {
               <div className="feature-desc">10-sec rounds</div>
             </div>
             <div className="feature-item">
-              <div className="feature-title">15+ Categories</div>
-              <div className="feature-desc">Science, History, Art</div>
+              <div className="feature-title">15+ Topics</div>
+              <div className="feature-desc">Movies, series ..</div>
             </div>
             <div className="feature-item">
               <div className="feature-title">No Ads</div>
