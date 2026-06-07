@@ -64,7 +64,7 @@ export default function Home() {
             
             <div className="badge-info" id="download-badge">
               <span className="dot-pulse" aria-hidden="true"></span>
-              <span>v1.0.0 • Direct Download (Safe & Secure)</span>
+              <span>v1.0.2 • Direct Download (Safe & Secure)</span>
             </div>
           </div>
 
