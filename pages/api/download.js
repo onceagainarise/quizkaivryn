@@ -17,7 +17,7 @@ if (process.env.UPSTASH_REDIS_REST_URL && process.env.UPSTASH_REDIS_REST_TOKEN) 
 
 export default async function handler(req, res) {
   // Target redirect GitHub APK release link
-  const redirectUrl = process.env.GITHUB_APK_URL || 'https://github.com/username/repo/releases/download/v1.0.3/app.apk';
+  const redirectUrl = process.env.GITHUB_APK_URL || 'https://github.com/onceagainarise/quizkaivryn-releases/releases/tag/v1.0.3';
 
   // Perform tracking
   if (redis) {
